@@ -1,13 +1,14 @@
 # Bioinformatikos bakalauro darbas
 ## Autorius: Dovydas Kičiatovas
 
-Šiame archyve - rezultatai_ir_kodas.zip - darbo rezultatus generuoja R Markdown
-failas rezultatai.Rmd. Jokių kitų skriptų vykdyti nereikia. Kaip alternatyva
-Markdown yra pateiktas failas mirna_analysis.R, kuriame galima įvykdyti visas
-Markdown metu vykdomas operacijas. Šiame archyve, kaip ir minėjau, yra pateikti
-ir darbui reikalingi duomenys iš TCGA Legacy duomenų bazės (GDCdata katalogas). 
-Šiuos duomenis galima parsisiųsti ir generuojant Markdown failą, tačiau ši
-operacija užtrunka ilgai, todėl duomenys pridėti patogumo dėlei.
+Ši GitHub repozitorija skirta mano bioinformatikos bakalauro darbo rezultatų 
+generavimui. Nuoroda į darbą: 
+https://elaba.lvb.lt/primo-explore/search?query=creator,contains,Dovydas%20Ki%C4%8Diatovas&pfilter=pfilter,exact,etd_baks&vid=ELABA&search_scope=VU&sortby=rank&tab=default_tab&lang=lt_LT&mode=simple&fromRedirectFilter=true
+
+Šiame archyve darbo rezultatus generuoja R Markdown failas rezultatai.Rmd. Jokių
+kitų skriptų vykdyti nereikia. Kaip alternatyva Markdown yra pateiktas failas 
+mirna_analysis.R, kuriame galima įvykdyti visas Markdown metu vykdomas 
+operacijas.
 
 Kodas parašytas naudojant 1.1.423 versijos RStudio su 3.4.3 versijos R. Visi
 papildomi paketai, kurie yra išvardyti rezultatai.Rmd faile, naudojami
