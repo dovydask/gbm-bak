@@ -2,8 +2,7 @@
 ## Autorius: Dovydas Kičiatovas
 
 Ši GitHub repozitorija skirta mano bioinformatikos bakalauro darbo rezultatų 
-generavimui. Nuoroda į darbą: 
-https://elaba.lvb.lt/primo-explore/search?query=creator,contains,Dovydas%20Ki%C4%8Diatovas&pfilter=pfilter,exact,etd_baks&vid=ELABA&search_scope=VU&sortby=rank&tab=default_tab&lang=lt_LT&mode=simple&fromRedirectFilter=true
+generavimui. Nuoroda į darbą: https://bit.ly/2QDoAq3
 
 Šiame archyve darbo rezultatus generuoja R Markdown failas rezultatai.Rmd. Jokių
 kitų skriptų vykdyti nereikia. Kaip alternatyva Markdown yra pateiktas failas 
