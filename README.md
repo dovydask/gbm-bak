@@ -1,4 +1,4 @@
-# Bioinformatikos bakalauro darbas
+# Bioinformatikos bakalauro darbo rezultatai
 ## Autorius: Dovydas Kičiatovas
 
 Ši GitHub repozitorija skirta mano bioinformatikos bakalauro darbo rezultatų 
